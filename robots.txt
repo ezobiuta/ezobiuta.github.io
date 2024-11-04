@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezobiuta.github.io/Biu/sitemap_index.txt
+Sitemap: https://ezobiuta.github.io/Elt/sitemap_index.txt
+Sitemap: https://ezobiuta.github.io/gtr/sitemap_index.txt
+Sitemap: https://ezobiuta.github.io/roR/sitemap_index.txt
